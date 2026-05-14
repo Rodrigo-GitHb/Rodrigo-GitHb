@@ -8,7 +8,7 @@ Desenvolvedor com foco em tecnologia e busca contínua por novos desafios. Atual
 - Atualmente aprendendo: [Descreva tecnologias ou conceitos em estudo]
 - Interesse em colaborar em: [Descreva tipos de projetos ou áreas de interesse para colaboração]
 - Contato para discussões sobre: [Descreva tópicos sobre os quais você pode oferecer ajuda ou discutir]
-- E-mail: [rodrigo.silvestre@email.com](mailto:rodrigo.silvestre@email.com)
+- E-mail: [rodrigo291002@hotmail.com](mailto:rodrigo291002@hotmail.com)
 - LinkedIn: [Rodrigo Silvestre](https://www.linkedin.com/in/rodrigo-silvestre-4565b519b/)
 
 ## Habilidades
