@@ -25,16 +25,18 @@ Tecnologias com as quais possuo experiência:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rodrigo-GitHb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-GitHb&layout=compact&theme=dracula" alt="Linguagens Mais Usadas"/>
 </p>
 
 ## Contribuições (GitHub Snake)
 
 <p align="center">
-  <img src="https://github.com/Rodrigo-GitHb/Rodrigo-GitHb/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/Rodrigo-GitHb/Rodrigo-GitHb/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
-*Para ativar a animação da cobrinha de contribuições, é necessário configurar uma GitHub Action no repositório `Rodrigo-GitHb/Rodrigo-GitHb`.*
+*A animação acima é gerada automaticamente uma vez por dia através de uma GitHub Action.*
 
 ## Conecte-se
 
