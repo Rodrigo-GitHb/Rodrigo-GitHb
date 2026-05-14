@@ -1,19 +1,19 @@
-# Olá, eu sou o Rodrigo Silvestre! 👋
+# Rodrigo Silvestre
 
-Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento web e explorar novas ferramentas e frameworks.
+Desenvolvedor com foco em tecnologia e busca contínua por novos desafios. Atualmente, dedico-me ao aprimoramento em desenvolvimento web e à exploração de novas ferramentas e frameworks.
 
-## 🚀 Sobre mim
+## Sobre
 
-- 🔭 Atualmente estou trabalhando em: [Descreva um projeto atual ou área de foco]
-- 🌱 Atualmente estou aprendendo: [Descreva tecnologias ou conceitos que está estudando]
-- 👯 Procuro colaborar em: [Descreva tipos de projetos ou áreas de interesse para colaboração]
-- 💬 Pergunte-me sobre: [Descreva tópicos sobre os quais você pode oferecer ajuda ou discutir]
-- 📫 Como me encontrar: [rodrigo.silvestre@email.com](mailto:rodrigo.silvestre@email.com)
-- 💼 LinkedIn: [Rodrigo Silvestre](https://www.linkedin.com/in/rodrigo-silvestre-4565b519b/)
+- Atualmente trabalhando em: [Descreva um projeto atual ou área de foco]
+- Atualmente aprendendo: [Descreva tecnologias ou conceitos em estudo]
+- Interesse em colaborar em: [Descreva tipos de projetos ou áreas de interesse para colaboração]
+- Contato para discussões sobre: [Descreva tópicos sobre os quais você pode oferecer ajuda ou discutir]
+- E-mail: [rodrigo.silvestre@email.com](mailto:rodrigo.silvestre@email.com)
+- LinkedIn: [Rodrigo Silvestre](https://www.linkedin.com/in/rodrigo-silvestre-4565b519b/)
 
-## 💻 Minhas Habilidades
+## Habilidades
 
-Aqui estão algumas das tecnologias com as quais tenho trabalhado:
+Tecnologias com as quais possuo experiência:
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -21,22 +21,22 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
   </a>
 </p>
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rodrigo-GitHb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-GitHb&layout=compact&theme=dracula" alt="Linguagens Mais Usadas"/>
 </p>
 
-## 🐍 Minhas Contribuições (GitHub Snake)
+## Contribuições (GitHub Snake)
 
 <p align="center">
   <img src="https://github.com/Rodrigo-GitHb/Rodrigo-GitHb/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
-*Para que a cobrinha de contribuições funcione, você precisará configurar uma GitHub Action no repositório `Rodrigo-GitHb/Rodrigo-GitHb`. Mais detalhes serão fornecidos na próxima etapa.*
+*Para ativar a animação da cobrinha de contribuições, é necessário configurar uma GitHub Action no repositório `Rodrigo-GitHb/Rodrigo-GitHb`.*
 
-## 🔗 Conecte-se Comigo
+## Conecte-se
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rodrigo-silvestre-4565b519b/">
@@ -49,4 +49,4 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 ---
 
-*Este README foi gerado automaticamente com base nas informações do seu perfil e nas dicas de personalização. Sinta-se à vontade para editá-lo e adicionar mais detalhes sobre você e seus projetos!*.
+*Este README foi gerado automaticamente com base nas informações do seu perfil e nas diretrizes de personalização. Sinta-se à vontade para editá-lo e adicionar mais detalhes sobre você e seus projetos.*
