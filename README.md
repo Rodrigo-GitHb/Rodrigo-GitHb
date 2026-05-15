@@ -37,6 +37,14 @@ Para manter seu perfil dinâmico e sem a necessidade de links externos complexos
 | [Nome do Projeto 1](https://github.com/Rodrigo-GitHb/nome-do-projeto-1) | Breve descrição do projeto e suas funcionalidades. | Python, Django, React | [Ver no GitHub](https://github.com/Rodrigo-GitHb/nome-do-projeto-1) |
 | [Nome do Projeto 2](https://github.com/Rodrigo-GitHb/nome-do-projeto-2) | Breve descrição do projeto e suas funcionalidades. | JavaScript, Vue.js, Node.js | [Ver no GitHub](https://github.com/Rodrigo-GitHb/nome-do-projeto-2) |
 
+## Contribuições (GitHub Snake)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rodrigo-GitHb/Rodrigo-GitHb/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+*A animação acima será gerada automaticamente através de uma GitHub Action, após a configuração do workflow.*
+
 ## Conecte-se
 
 <p align="center">
