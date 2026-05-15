@@ -44,6 +44,3 @@ Tecnologias com as quais possuo experiência:
   </a>
 </p>
 
----
-
-*Este README foi gerado automaticamente com base nas informações do seu perfil e nas diretrizes de personalização. Sinta-se à vontade para editá-lo e adicionar mais detalhes sobre você e seus projetos.*
