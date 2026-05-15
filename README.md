@@ -31,7 +31,7 @@ Tecnologias com as quais possuo experiência:
 
 | Projeto | Descrição | Tecnologias | Link |
 |---|---|---|---|
-| [Portifólio](https://github.com/Rodrigo-GitHb/Rodrigo_Silvestre) | Breve descrição do projeto e suas funcionalidades. | TypeScript, React | [Deploy](https://vercel.com/rodrigo-sas-projects/rodrigo-silvestre) |
+| [Portifólio](https://github.com/Rodrigo-GitHb/Rodrigo_Silvestre) | Breve descrição do projeto e suas funcionalidades. | TypeScript, React | [Deploy](https://rodrigo-silvestre.vercel.app/) |
 | [Lista de Tarefas](https://github.com/Rodrigo-GitHb/minhas-tarefas-main) | Breve descrição do projeto e suas funcionalidades. | TypeScript, React, HTML | [Deploy](https://minhas-tarefas-main.vercel.app/) |
 
 ## Conecte-se
