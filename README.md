@@ -9,7 +9,7 @@ Desenvolvedor com foco em tecnologia e busca contínua por novos desafios. Atual
 - Interesse em colaborar em: Projetos voltados para desenvolvimento ou manutenção de sites e ferramentas.
 - Contato para discussões sobre: Desenvolvimento com Frontend e Backend
 - E-mail: [rodrigo291002@hotmail.com](mailto:rodrigo291002@hotmail.com)
-- LinkedIn: [Rodrigo Silvestre](https://www.linkedin.com/in/rodrigo-silvestre-4565b519b/)
+- LinkedIn: [Rodrigo Silvestre](https://www.linkedin.com/in/rodrigo-silvestre-dev/)
 
 ## Habilidades
 
@@ -21,26 +21,23 @@ Tecnologias com as quais possuo experiência:
   </a>
 </p>
 
-## Status e Atividade
 
-Para manter seu perfil dinâmico e sem a necessidade de links externos complexos, sugiro utilizar badges de status que podem ser atualizados manualmente ou através de automações mais simples, ou até mesmo uma seção de projetos em destaque.
-
-### Exemplo de Badges de Status (opcional):
+### Exemplo de Badges de Status
 
 [![GitHub followers](https://img.shields.io/github/followers/Rodrigo-GitHb?style=social)](https://github.com/Rodrigo-GitHb)
 [![Total de Estrelas](https://img.shields.io/github/stars/Rodrigo-GitHb?style=social)](https://github.com/Rodrigo-GitHb?tab=stars)
 
-### Projetos em Destaque (opcional - você pode listar seus melhores projetos aqui):
+### Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias | Link |
 |---|---|---|---|
-| [Nome do Projeto 1](https://github.com/Rodrigo-GitHb/nome-do-projeto-1) | Breve descrição do projeto e suas funcionalidades. | Python, Django, React | [Ver no GitHub](https://github.com/Rodrigo-GitHb/nome-do-projeto-1) |
-| [Nome do Projeto 2](https://github.com/Rodrigo-GitHb/nome-do-projeto-2) | Breve descrição do projeto e suas funcionalidades. | JavaScript, Vue.js, Node.js | [Ver no GitHub](https://github.com/Rodrigo-GitHb/nome-do-projeto-2) |
+| [Portifólio](https://github.com/Rodrigo-GitHb/Rodrigo_Silvestre) | Breve descrição do projeto e suas funcionalidades. | TypeScript, React | [Deploy](https://vercel.com/rodrigo-sas-projects/rodrigo-silvestre) |
+| [Lista de Tarefas](https://github.com/Rodrigo-GitHb/minhas-tarefas-main) | Breve descrição do projeto e suas funcionalidades. | TypeScript, React, HTML | [Deploy](https://minhas-tarefas-main.vercel.app/) |
 
 ## Conecte-se
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rodrigo-silvestre-4565b519b/">
+  <a href="https://www.linkedin.com/in/rodrigo-silvestre-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:rodrigo291002@hotmail.com">
@@ -48,6 +45,3 @@ Para manter seu perfil dinâmico e sem a necessidade de links externos complexos
   </a>
 </p>
 
----
-
-*Este README foi atualizado para oferecer uma experiência mais estável e visualmente atraente. Sinta-se à vontade para personalizar as seções de Status e Projetos em Destaque com suas informações!*
