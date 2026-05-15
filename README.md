@@ -23,20 +23,15 @@ Tecnologias com as quais possuo experiência:
 
 ## Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rodrigo-GitHb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-GitHb&layout=compact&theme=dracula" alt="Linguagens Mais Usadas"/>
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rodrigo-GitHb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-GitHb&layout=compact&theme=dracula)
 
 ## Contribuições (GitHub Snake)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rodrigo-GitHb/Rodrigo-GitHb/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Rodrigo-GitHb/Rodrigo-GitHb/output/github-contribution-grid-snake.svg)
 
-*A animação acima é gerada automaticamente uma vez por dia através de uma GitHub Action.*
+*A animação acima é gerada automaticamente através de uma GitHub Action.*
 
 ## Conecte-se
 
