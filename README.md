@@ -4,10 +4,10 @@ Desenvolvedor com foco em tecnologia e busca contínua por novos desafios. Atual
 
 ## Sobre
 
-- Atualmente trabalhando em: [Descreva um projeto atual ou área de foco]
-- Atualmente aprendendo: [Descreva tecnologias ou conceitos em estudo]
-- Interesse em colaborar em: [Descreva tipos de projetos ou áreas de interesse para colaboração]
-- Contato para discussões sobre: [Descreva tópicos sobre os quais você pode oferecer ajuda ou discutir]
+- Atualmente trabalhando em: FullStack em Python
+- Atualmente aprendendo: Docker
+- Interesse em colaborar em: Projetos voltados para desenvolvimento ou manutenção de sites e ferramentas.
+- Contato para discussões sobre: Desenvolvimento com Frontend e Backend
 - E-mail: [rodrigo291002@hotmail.com](mailto:rodrigo291002@hotmail.com)
 - LinkedIn: [Rodrigo Silvestre](https://www.linkedin.com/in/rodrigo-silvestre-4565b519b/)
 
