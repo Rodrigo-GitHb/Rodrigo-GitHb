@@ -21,29 +21,23 @@ Tecnologias com as quais possuo experiência:
   </a>
 </p>
 
-## Status e Atividade
-
-Para manter seu perfil dinâmico e sem a necessidade de links externos complexos, sugiro utilizar badges de status que podem ser atualizados manualmente ou através de automações mais simples, ou até mesmo uma seção de projetos em destaque.
-
-### Exemplo de Badges de Status (opcional):
+### Exemplo de Badges de Status
 
 [![GitHub followers](https://img.shields.io/github/followers/Rodrigo-GitHb?style=social)](https://github.com/Rodrigo-GitHb)
 [![Total de Estrelas](https://img.shields.io/github/stars/Rodrigo-GitHb?style=social)](https://github.com/Rodrigo-GitHb?tab=stars)
 
-### Projetos em Destaque (opcional - você pode listar seus melhores projetos aqui):
+### Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias | Link |
 |---|---|---|---|
-| [Nome do Projeto 1](https://github.com/Rodrigo-GitHb/nome-do-projeto-1) | Breve descrição do projeto e suas funcionalidades. | Python, Django, React | [Ver no GitHub](https://github.com/Rodrigo-GitHb/nome-do-projeto-1) |
-| [Nome do Projeto 2](https://github.com/Rodrigo-GitHb/nome-do-projeto-2) | Breve descrição do projeto e suas funcionalidades. | JavaScript, Vue.js, Node.js | [Ver no GitHub](https://github.com/Rodrigo-GitHb/nome-do-projeto-2) |
+| [Portifólio](https://github.com/Rodrigo-GitHb/Rodrigo_Silvestre) | Um portfólio pessoal moderno e responsivo, desenvolvido com React, TypeScript e Vite. Apresenta projetos, habilidades e informações de contato de forma profissional, servindo como um cartão de visitas digital para destacar suas competências no desenvolvimento web. | TypeScript, React, Vite | [Deploy](https://rodrigo-silvestre.vercel.app/) |
+| [Lista de Tarefas](https://github.com/Rodrigo-GitHb/minhas-tarefas-main) | Uma aplicação de gerenciamento de tarefas interativa, construída com React. Permite aos usuários adicionar, visualizar, marcar como concluídas e remover tarefas, auxiliando na organização e produtividade diária. O projeto demonstra proficiência em desenvolvimento front-end com React. | TypeScript, React, Create React App | [Deploy](https://minhas-tarefas-main.vercel.app/) |
 
 ## Contribuições (GitHub Snake)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rodrigo-GitHb/Rodrigo-GitHb/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
-
-*A animação acima será gerada automaticamente através de uma GitHub Action, após a configuração do workflow.*
 
 ## Conecte-se
 
