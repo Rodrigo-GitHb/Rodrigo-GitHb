@@ -56,6 +56,3 @@ Para manter seu perfil dinâmico e sem a necessidade de links externos complexos
   </a>
 </p>
 
----
-
-*Este README foi atualizado para oferecer uma experiência mais estável e visualmente atraente. Sinta-se à vontade para personalizar as seções de Status e Projetos em Destaque com suas informações!*
